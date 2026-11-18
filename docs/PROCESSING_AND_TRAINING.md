@@ -1,4 +1,4 @@
-Data Processing and Model Training Stages
+# Data Processing and Model Training Stages
 
 ## 1. Study grid and common alignment
 
